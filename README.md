@@ -1,6 +1,6 @@
 Ansj中文分词
 ==================
-
+dfadfaadf
 
 #####使用帮助[http://ansjsun.github.io/ansj_seg/](http://ansjsun.github.io/ansj_seg/)
 
